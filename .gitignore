@@ -1,0 +1,82 @@
+# Environment files
+.env
+config/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+logs/
+*.out
+
+# Data files
+data/vectorstore/
+data/eval/evaluation_results/
+data/chat.db
+
+# Elasticsearch
+elasticsearch-*/
+*.pid
+
+# Results and outputs
+results/*.csv
+results/*.json
+performance_*.json
+fixed_performance_*.json
+
+# Cache
+.cache/
+__pycache__/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+bak/
+*.bak
+*.backup
+
+# Model files (large)
+models/
+*.bin
+*.safetensors
+
+# Poetry
+poetry.lock

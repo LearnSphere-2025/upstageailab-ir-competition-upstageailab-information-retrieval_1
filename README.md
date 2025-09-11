@@ -1,12 +1,15 @@
-# Title (Please modify the title)
+# IR v2: Information Retrieval System
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [김문수](https://github.com/UpstageAILab)             |            [이상현](https://github.com/UpstageAILab)             |            [조선미](https://github.com/UpstageAILab)             |            [채병기](https://github.com/UpstageAILab)             |            [염창환](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+| [김문수](https://github.com/UpstageAILab) | [이상현](https://github.com/UpstageAILab) | [조선미](https://github.com/LearnSphere-2025) | [채병기](https://github.com/UpstageAILab) | [염창환](https://github.com/UpstageAILab) |
+|:------:|:------:|:------:|:------:|:------:|
+| 팀장, 담당 역할 | 담당 역할 | 담당 역할 | 담당 역할 | 담당 역할 |
 
 ## 0. Overview
+
+### IR 경진대회용 저장소
+- _Write Development environment_
+
 ### Environment
 - _Write Development environment_
 
